@@ -1,5 +1,3 @@
-# Short Sessions
-
 ## タイトル
 使ってみようLombok
 ## 登壇者
@@ -11,8 +9,6 @@ Java8で導入されたLambdaを始め、日々様々な改善が行われてい
 当セッションでは、Lombokを代表的なIDEに導入する方法と、Lombokが持つ機能を紹介します。
 Java8とLombokで広がる「イマドキのJava」を体験しましょう！
 ***
-
-# Long Sessions
 
 ## タイトル
 "Fun"ctional Programming
