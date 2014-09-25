@@ -1,4 +1,4 @@
-# example
+# Short Sessions
 
 ## タイトル
 使ってみようLombok
@@ -10,4 +10,13 @@ Java8で導入されたLambdaを始め、日々様々な改善が行われてい
 そんな面倒なコードを書かなくても良くなるツールが[Lombok](http://projectlombok.org/)です。
 当セッションでは、Lombokを代表的なIDEに導入する方法と、Lombokが持つ機能を紹介します。
 Java8とLombokで広がる「イマドキのJava」を体験しましょう！
+***
+
+# Long Sessions
+
+## タイトル
+"Fun"ctional Programming
+## 登壇者
+角田裕樹(@razon)
+## 概要
 ***
