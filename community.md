@@ -1,2 +1,1 @@
-* [天領倉敷Scala](http://tkscala.doorkeeper.jp/)
-* [岡山Gitユーザ会](https://okagit.github.io/)
+* [日本Androidの会](http://www.android-group.jp/)
