@@ -3,3 +3,4 @@
 * [岡山Javaユーザ会](https://okajug.appspot.com/)
 * [Okayama IT Engineers Community](http://oitec.vbstation.net/)
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)
+* [日本Androidの会](http://www.android-group.jp/)
