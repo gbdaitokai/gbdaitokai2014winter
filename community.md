@@ -4,3 +4,4 @@
 * [Okayama IT Engineers Community](http://oitec.vbstation.net/)
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)
 * [日本Androidの会](http://www.android-group.jp/)
+* [DevLOVE広島](http://devlove-hiroshima.doorkeeper.jp)
