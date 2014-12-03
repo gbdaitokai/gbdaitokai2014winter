@@ -19,6 +19,14 @@ Java8とLombokで広がる「イマドキのJava」を体験しましょう！
 ***
 
 ## タイトル
+AppCode か Xcode か
+## 登壇者
+真崎克宏(@sabichem)
+## 概要
+Objective-C(Swift)のIDEであるAppCodeを約半年使ってみて感じたことをMac標準のIDEであるXcodeと比較しながら紹介したいと思います。
+***
+
+## タイトル
 How do you like knockout?
 ## 登壇者
 きよくらならみ(@kiyokura)
