@@ -5,3 +5,4 @@
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)
 * [日本Androidの会](http://www.android-group.jp/)
 * [DevLOVE広島](http://devlove-hiroshima.doorkeeper.jp)
+* [岡山Ruby, Ruby on Rails勉強会](https://sites.google.com/site/okayamaruby/)
